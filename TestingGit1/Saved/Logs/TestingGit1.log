@@ -1710,3 +1710,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.24-12.14.32:285][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms
 [2023.05.24-12.14.32:290][131]AssetCheck: New page: Asset Save: Level01Graybox
 [2023.05.24-12.14.32:291][131]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level01Graybox.Level01Graybox
+[2023.05.24-12.17.06:686][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.24-12.17.06:756][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.24-12.17.06:763][722]LogSavePackage: Moving output files for package: /Game/Levels/Level01Graybox
+[2023.05.24-12.17.06:764][722]LogSavePackage: Moving '../../../../../../Users/holar/Desktop/UnderscopedUnrealFil/TestRepoUE5/TestingGit1/Saved/Level01Graybox0A94441A4899554A1B563F8DBE759905.tmp' to '../../../../../../Users/holar/Desktop/UnderscopedUnrealFil/TestRepoUE5/TestingGit1/Content/Levels/Level01Graybox.umap'
+[2023.05.24-12.17.06:780][722]LogFileHelpers: Saving map 'Level01Graybox' took 0.034
+[2023.05.24-12.17.06:809][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 276 ms)
+[2023.05.24-12.17.06:814][722]AssetCheck: New page: Asset Save: Level01Graybox
+[2023.05.24-12.17.06:814][722]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level01Graybox.Level01Graybox
