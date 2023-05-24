@@ -1,0 +1,6 @@
+2023/05/24-11:43:00.705 7d4 Creating DB C:/Users/baldr/OneDrive/Dokumenter/GitHub/TestRepoUE5/TestRepoUE5/TestingGit1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/05/24-11:43:00.718 7d4 Reusing MANIFEST C:/Users/baldr/OneDrive/Dokumenter/GitHub/TestRepoUE5/TestRepoUE5/TestingGit1/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/24-11:43:25.452 b88 Level-0 table #5: started
+2023/05/24-11:43:25.466 b88 Level-0 table #5: 1167 bytes OK
+2023/05/24-11:43:25.468 b88 Delete type=0 #3
+2023/05/24-11:43:25.469 b88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
