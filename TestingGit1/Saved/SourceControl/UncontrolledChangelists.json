@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/holar/Desktop/UnderscopedUnrealFil/TestRepoUE5/TestingGit1/Content/Levels/Level01Graybox.umap",
+				"C:/Users/holar/Desktop/UnderscopedUnrealFil/TestRepoUE5/TestingGit1/Content/Menu/WBP_MainMenu.uasset",
+				"C:/Users/holar/Desktop/UnderscopedUnrealFil/TestRepoUE5/TestingGit1/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/holar/Desktop/UnderscopedUnrealFil/TestRepoUE5/TestingGit1/Content/Menu/WBP_UI_Temaplate.uasset",
+				"C:/Users/holar/Desktop/UnderscopedUnrealFil/TestRepoUE5/TestingGit1/Content/NextLevelTrigger.uasset",
+				"C:/Users/holar/Desktop/UnderscopedUnrealFil/TestRepoUE5/TestingGit1/Content/Audio/untitled_-_HospitalHallway_SFXB_481.uasset",
+				"C:/Users/holar/Desktop/UnderscopedUnrealFil/TestRepoUE5/TestingGit1/Content/Menu/WBP_Credits3.uasset",
 				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Task_System/TaskPossibilityPoint.uasset",
 				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Tasks_0/TestTask.uasset",
 				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Task_System/Task.uasset",
@@ -45,8 +52,7 @@
 				"C:/Users/K-K-R/Documents/Kristiania/Q4/SPD205-1_GameLab2/TestRepo/TestRepoUE5/TestingGit1/Content/Menu/WBP_Credits1.uasset",
 				"C:/Users/K-K-R/Documents/Kristiania/Q4/SPD205-1_GameLab2/TestRepo/TestRepoUE5/TestingGit1/Content/Menu/WBP_Credits2.uasset",
 				"C:/Users/baldr/OneDrive/Dokumenter/GitHub/TestRepoUE5/TestRepoUE5/TestingGit1/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/baldr/OneDrive/Dokumenter/GitHub/TestRepoUE5/TestRepoUE5/TestingGit1/Content/Levels/Level01Graybox.umap",
-				"C:/Users/holar/Desktop/UnderscopedUnrealFil/TestRepoUE5/TestingGit1/Content/Levels/Level01Graybox.umap"
+				"C:/Users/baldr/OneDrive/Dokumenter/GitHub/TestRepoUE5/TestRepoUE5/TestingGit1/Content/Levels/Level01Graybox.umap"
 			]
 		}
 	]
