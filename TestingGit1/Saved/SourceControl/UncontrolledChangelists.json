@@ -7,6 +7,15 @@
 			"files": [
 <<<<<<< HEAD
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
+				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Task_System/TaskPossibilityPoint.uasset",
+				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Task_System/Task.uasset",
+				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/ThirdPerson/Input/Actions/IA_TaskCycle.uasset",
+				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/ThirdPerson/Input/Actions/IA_TaskSelect.uasset",
+				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Menu/WBP_UI_Temaplate.uasset",
+				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Audio/T/sound.uasset",
+				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/TryAudio/SC_TaskAlertTime.uasset",
+				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/TryAudio/SC_TaskAlert.uasset",
 				"C:/Users/K-K-R/Documents/Kristiania/Q4/SPD205-1_GameLab2/TestRepo/TestRepoUE5/TestingGit1/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/K-K-R/Documents/Kristiania/Q4/SPD205-1_GameLab2/TestRepo/TestRepoUE5/TestingGit1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
 				"C:/Users/K-K-R/Documents/Kristiania/Q4/SPD205-1_GameLab2/TestRepo/TestRepoUE5/TestingGit1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset",
@@ -289,15 +298,10 @@
 				"C:/Users/baldr/OneDrive/Dokumenter/GitHub/TestRepoUE5/TestRepoUE5/TestingGit1/Content/PhysicalS/Misk/GM_PIS.uasset",
 				"C:/Users/baldr/OneDrive/Dokumenter/GitHub/TestRepoUE5/TestRepoUE5/TestingGit1/Content/PhysicalS/BP/Character/Demo/BP_FirstPersonCharacter_Demo.uasset",
 				"C:/Users/baldr/OneDrive/Dokumenter/GitHub/TestRepoUE5/TestRepoUE5/TestingGit1/Content/PhysicalS/BP/Character/PC_PIS.uasset",
-				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Task_System/TaskPossibilityPoint.uasset",
 				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Tasks_0/TestTask.uasset",
-				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Task_System/Task.uasset",
 				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Task_System/Task_TestComponent.uasset",
 				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/Task_System/Testing/BP_3PC_TaskTest.uasset",
-				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/ThirdPerson/Input/Actions/IA_Task.uasset",
-				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/ThirdPerson/Input/Actions/IA_TaskCycle.uasset",
-				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/ThirdPerson/Input/Actions/IA_TaskSelect.uasset",
-				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/ThirdPerson/Input/IMC_Default.uasset"
+				"D:/Unreal/git/TestRepoUE5/TestingGit1/Content/ThirdPerson/Input/Actions/IA_Task.uasset"
 			]
 		}
 	]
